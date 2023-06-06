@@ -1,6 +1,5 @@
 # docker
 
-
 ## 以下是一些常用的 Docker 指令：
 
 1. docker run：运行一个容器，例如 docker run -it ubuntu bash 可以在一个 Ubuntu 容器中运行 Bash 终端。
